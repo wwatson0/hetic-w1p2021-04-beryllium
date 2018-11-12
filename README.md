@@ -11,7 +11,7 @@ Notre site est hébergé sur le site Netlify à l'adresse
 Le groupe est composé de 
 <ul>
 
-<li> ADIDA Benjamin <li>
+<li> ADIDA Benjamin </li>
 <li> BARLET Maxime </li>
 <li> ROBAGLIA Félix </li>
 <li> WATSON William </li>
